@@ -1,3 +1,3 @@
 ## Welcome to my page
 
-GitHub[https://github.com/TibiDumitru]
+[GitHub](https://github.com/TibiDumitru "My projects")
