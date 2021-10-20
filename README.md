@@ -1,3 +1,3 @@
 # TibiDumitru.github.io
 
-# GitHub Page
+## GitHub Page
